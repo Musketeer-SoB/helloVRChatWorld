@@ -1,5 +1,7 @@
 # VRChat World Project Template
 
+Hello Sourcetree, Hello Git! This is my first commit x3
+
 This repo makes it easy to start a new VRChat World project!
 
 <details>
